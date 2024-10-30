@@ -3,4 +3,4 @@
 
  - FEATURE-A
  - fix-B
-
+ - feature-C
